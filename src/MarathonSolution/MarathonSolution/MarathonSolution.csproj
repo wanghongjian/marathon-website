@@ -87,6 +87,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\layout.css" />
     <Content Include="Global.asax" />
+    <Content Include="index.html" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
