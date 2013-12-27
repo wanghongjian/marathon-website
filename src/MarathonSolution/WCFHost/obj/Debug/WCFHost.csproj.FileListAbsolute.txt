@@ -1,0 +1,5 @@
+D:\Users\wang_hj\Documents\Visual Studio 2010\Projects\MarathonSolution\WCFHost\bin\WCFHost.dll
+D:\Users\wang_hj\Documents\Visual Studio 2010\Projects\MarathonSolution\WCFHost\bin\WCFHost.pdb
+D:\Users\wang_hj\Documents\Visual Studio 2010\Projects\MarathonSolution\WCFHost\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\wang_hj\Documents\Visual Studio 2010\Projects\MarathonSolution\WCFHost\obj\Debug\WCFHost.dll
+D:\Users\wang_hj\Documents\Visual Studio 2010\Projects\MarathonSolution\WCFHost\obj\Debug\WCFHost.pdb

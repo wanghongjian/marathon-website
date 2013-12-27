@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="urn:schemas-microsoft-com:windows:storage:mapping:CS">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="marathon_dbEntities">
+    <EntitySetMapping Name="Race">
+      <EntityTypeMapping TypeName="Model.RaceModel">
+        <MappingFragment StoreEntitySet="Race">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+          <ScalarProperty Name="SignStartDate" ColumnName="SignStartDate" />
+          <ScalarProperty Name="SignEndDate" ColumnName="SignEndDate" />
+          <ScalarProperty Name="RaceItem" ColumnName="RaceItem" />
+          <ScalarProperty Name="SignInfo" ColumnName="SignInfo" />
+          <ScalarProperty Name="Summary" ColumnName="Summary" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

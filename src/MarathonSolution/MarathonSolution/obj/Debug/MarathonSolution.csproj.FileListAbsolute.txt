@@ -1,0 +1,5 @@
+D:\Users\wang_hj\Documents\Visual Studio 2010\Projects\MarathonSolution\MarathonSolution\bin\MarathonSolution.dll
+D:\Users\wang_hj\Documents\Visual Studio 2010\Projects\MarathonSolution\MarathonSolution\bin\MarathonSolution.pdb
+D:\Users\wang_hj\Documents\Visual Studio 2010\Projects\MarathonSolution\MarathonSolution\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\wang_hj\Documents\Visual Studio 2010\Projects\MarathonSolution\MarathonSolution\obj\Debug\MarathonSolution.dll
+D:\Users\wang_hj\Documents\Visual Studio 2010\Projects\MarathonSolution\MarathonSolution\obj\Debug\MarathonSolution.pdb
